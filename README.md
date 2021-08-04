@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey :wave:, I'm Raghava!
 
-<!--
-**raghavauppuluri13/raghavauppuluri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergrad robotics researcher at the [Purdue Collaborative Robotics Lab](https://www.purdue.edu/crl/), VP at the [Purdue Autonomous Robotics Club](https://www.purduearc.com/), and Software Lead at [Purdue Lunabotics](https://web.ics.purdue.edu/~lunabot/).
 
-Here are some ideas to get you started:
+### Current Projects
+- Building a smart robot arm at ARC ([about](https://wiki.purduearc.com/wiki/robot-arm/start-here))
+- Building an autonomous lunar robot at Purdue Lunabotics ([repo](https://github.com/PurdueLunabotics/lunabotics_21))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I can tell you about
+- ROS
+- Building a hobby robot arm with vision
+
+### What I am learning right now
+- Deep Learning
+- Deep RL
+- SLAM
+
+### What I am excited about
+Building robots that learn and adapt like humans, ultimately doing harder and harder things that save us time and reduce our stress.
