@@ -9,4 +9,4 @@ I am an undergrad robotics researcher at Purdue, VP at the [Purdue Autonomous Ro
 camera sensor stack and sim-to-real and imitation learning approaches 
 
 ### What I am excited about
-Building robots that learn and adapt like humans
+Building robots that learn and adapt like humans 🤖
